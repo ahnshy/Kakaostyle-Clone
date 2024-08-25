@@ -1,4 +1,4 @@
-# 🕯️ Kakao style clone 🕯️<br/>
+# 🕯️Kakao style clone🕯️<br/>
  Kakao style is an online fashion platform that introduces and sells clothes, accessories, and fashion trends.
 <br/>
 <br/>
