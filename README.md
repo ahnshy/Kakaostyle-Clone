@@ -10,7 +10,7 @@
 <br/>
 
 ## 🚩 [Objective]
-- Appropriate site for senior developer training. (I trained this site as a real best practice in the company.)
+- Appropriate site for senior or beginner vuejs developer training. (I trained this site as a real best practice in the company.)
 - Implemented with the vue3.js and Composition API, SPA architecture, allowing senior vue.js JavaScript developers to implement this project.
 - Cloned a simple SPA from a website called "Kakao style" in Korea.
 <br/>
