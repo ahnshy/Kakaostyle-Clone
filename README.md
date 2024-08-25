@@ -52,7 +52,7 @@
 ![image](https://github.com/user-attachments/assets/712b958e-160d-4456-9813-e194eb476b90)
 <br/>
 
-* Demo (https://kakaostyle-clone.vercel.app/)
+* Cloned Demo (https://kakaostyle-clone.vercel.app/)
 ![image](https://github.com/user-attachments/assets/d427736b-3b1b-465a-85c3-e1eaa346baca)
 <br/>
 <br/>
