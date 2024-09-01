@@ -22,7 +22,7 @@
 - **Vue 3**: A framework that enables dynamic CSR by utilizing the Vue3 Composition API and is optimized for SPA implementation.
 - **Vite**: A very fast JavaScript build tool that is more advanced than npm.
 - **Vue-router**: Technology involved in routing links and page services in vuejs.
-- **bootstrap**: CSS and JS framework that helps make websites easy.
+- **bootstrap v5.1.3**: CSS and JS framework that helps make websites easy.
 <br/>
 
 ## ⚙️ [Instructions]
