@@ -9,6 +9,9 @@
 - Cloning target website : https://kakaostyle.com/
 <br/>
 
+## 🛠️ Stacks
+<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrapap-7952B3?logo=bootstrap&logoColor=white"/><br/><br/>
+
 ## 🚩 [Objective]
 - Appropriate site for senior or beginner vuejs developer training. (I trained this site as a real best practice in the company.)
 - Implemented with the vue3.js and Composition API, SPA architecture, allowing senior vue.js JavaScript developers to implement this project.
